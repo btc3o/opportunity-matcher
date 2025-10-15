@@ -1,2 +1,2 @@
 # opportunity-matcher
-Intelligent Angular directive for freelance opportunity matching and prioritization
+Intelligent Angular directive designed by Azeddine El Massnaoui for job opportunity finder / matching & prioritization.
